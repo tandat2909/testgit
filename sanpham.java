@@ -10,6 +10,7 @@ public class sanpham{
 	this.tensp = tensp;
 	s
 	}
+	sdf
 	public String toString(){
 		return "Ma sp: " + masp + "\nTen sp: " + tensp;
 	}
